@@ -711,7 +711,7 @@
           $('#play-video, .play-video').on('click', function (e) {
               e.preventDefault();
               $('.video-overlay').addClass('open');
-              $(".video-overlay").append('<iframe width="560" height="315" src="https://www.youtube.com/embed/Giek094C_l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>');
+              $(".video-overlay").append('<iframe width="560" height="315" src="https://www.youtube.com/embed/EA7CjoJlaiU?si=ThoXLNp9dEeHczth" title="Modern Electrical Solutions R290 AC Distribution in Grenada - Javid Mitchell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>');
           });
 
           $('.video-overlay, .video-overlay-close').on('click', function (e) {
